@@ -93,7 +93,10 @@ body{
 
 .apresentacao__imagem{
     width: 50%;
-    border-radius: 50%;
+}
+
+.apresentacao__imagem:hover{
+    content: url(../assets/profile-pic2.png);
 }
 
 .rodape{
