@@ -20,6 +20,7 @@ body{
     background-color: var(--cor-primaria);
     color: var(--cor-secundaria);
 }
+
 .cabecalho{
     padding: 2% 0% 0% 15%;
 }
@@ -93,10 +94,6 @@ body{
 
 .apresentacao__imagem{
     width: 50%;
-}
-
-.apresentacao__imagem:hover{
-    content: url(../assets/profile-pic2.png);
 }
 
 .rodape{
