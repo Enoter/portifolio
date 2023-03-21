@@ -95,10 +95,6 @@ body{
     width: 50%;
 }
 
-.apresentacao__imagem:hover{
-    content: url(../assets/profile-pic2.png);
-}
-
 .rodape{
     color: var(--cor-primaria);
     background-color: var(--cor-terciaria);
